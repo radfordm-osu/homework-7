@@ -5,3 +5,5 @@ def leapyear(num):
         return False
     elif(num % 4 == 0):
         return True
+    else:
+        return False
